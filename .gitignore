@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large bioinformatics files
+data/raw_fastq/
+data/subsamples/
+data/results/alignments/
+data/results/fastqc/
+
+# If you want to keep graphs, do NOT ignore graphs
+# data/results/graphs/
+
+# If you want to keep exported tables in repo, comment this out
+# data/results/tables/
+
+# MySQL / misc
+*.log

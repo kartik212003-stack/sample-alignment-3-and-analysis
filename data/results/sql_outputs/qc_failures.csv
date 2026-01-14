@@ -1,0 +1,6 @@
+sample_id,test,fail_count
+SAMPLE1,Per base sequence quality,3
+SAMPLE1,Per tile sequence quality,3
+SAMPLE1,Per base sequence content,3
+SAMPLE2,Per tile sequence quality,3
+SAMPLE3,Per base sequence content,6
