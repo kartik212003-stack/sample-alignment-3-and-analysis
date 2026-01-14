@@ -1,0 +1,193 @@
+sample_id,replicate,mate,test,status,fastq_file
+SAMPLE1,1,1,Basic Statistics,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Per base sequence quality,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Per tile sequence quality,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Per sequence quality scores,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Per base sequence content,WARN,rep1_1.fastq.gz
+SAMPLE1,1,1,Per sequence GC content,WARN,rep1_1.fastq.gz
+SAMPLE1,1,1,Per base N content,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Sequence Length Distribution,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Sequence Duplication Levels,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Overrepresented sequences,PASS,rep1_1.fastq.gz
+SAMPLE1,1,1,Adapter Content,WARN,rep1_1.fastq.gz
+SAMPLE1,1,2,Basic Statistics,PASS,rep1_2.fastq.gz
+SAMPLE1,1,2,Per base sequence quality,FAIL,rep1_2.fastq.gz
+SAMPLE1,1,2,Per tile sequence quality,FAIL,rep1_2.fastq.gz
+SAMPLE1,1,2,Per sequence quality scores,PASS,rep1_2.fastq.gz
+SAMPLE1,1,2,Per base sequence content,FAIL,rep1_2.fastq.gz
+SAMPLE1,1,2,Per sequence GC content,WARN,rep1_2.fastq.gz
+SAMPLE1,1,2,Per base N content,PASS,rep1_2.fastq.gz
+SAMPLE1,1,2,Sequence Length Distribution,PASS,rep1_2.fastq.gz
+SAMPLE1,1,2,Sequence Duplication Levels,PASS,rep1_2.fastq.gz
+SAMPLE1,1,2,Overrepresented sequences,PASS,rep1_2.fastq.gz
+SAMPLE1,1,2,Adapter Content,WARN,rep1_2.fastq.gz
+SAMPLE1,2,1,Basic Statistics,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Per base sequence quality,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Per tile sequence quality,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Per sequence quality scores,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Per base sequence content,WARN,rep2_1.fastq.gz
+SAMPLE1,2,1,Per sequence GC content,WARN,rep2_1.fastq.gz
+SAMPLE1,2,1,Per base N content,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Sequence Length Distribution,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Sequence Duplication Levels,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Overrepresented sequences,PASS,rep2_1.fastq.gz
+SAMPLE1,2,1,Adapter Content,WARN,rep2_1.fastq.gz
+SAMPLE1,2,2,Basic Statistics,PASS,rep2_2.fastq.gz
+SAMPLE1,2,2,Per base sequence quality,FAIL,rep2_2.fastq.gz
+SAMPLE1,2,2,Per tile sequence quality,FAIL,rep2_2.fastq.gz
+SAMPLE1,2,2,Per sequence quality scores,PASS,rep2_2.fastq.gz
+SAMPLE1,2,2,Per base sequence content,FAIL,rep2_2.fastq.gz
+SAMPLE1,2,2,Per sequence GC content,WARN,rep2_2.fastq.gz
+SAMPLE1,2,2,Per base N content,PASS,rep2_2.fastq.gz
+SAMPLE1,2,2,Sequence Length Distribution,PASS,rep2_2.fastq.gz
+SAMPLE1,2,2,Sequence Duplication Levels,PASS,rep2_2.fastq.gz
+SAMPLE1,2,2,Overrepresented sequences,PASS,rep2_2.fastq.gz
+SAMPLE1,2,2,Adapter Content,WARN,rep2_2.fastq.gz
+SAMPLE1,3,1,Basic Statistics,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Per base sequence quality,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Per tile sequence quality,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Per sequence quality scores,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Per base sequence content,WARN,rep3_1.fastq.gz
+SAMPLE1,3,1,Per sequence GC content,WARN,rep3_1.fastq.gz
+SAMPLE1,3,1,Per base N content,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Sequence Length Distribution,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Sequence Duplication Levels,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Overrepresented sequences,PASS,rep3_1.fastq.gz
+SAMPLE1,3,1,Adapter Content,WARN,rep3_1.fastq.gz
+SAMPLE1,3,2,Basic Statistics,PASS,rep3_2.fastq.gz
+SAMPLE1,3,2,Per base sequence quality,FAIL,rep3_2.fastq.gz
+SAMPLE1,3,2,Per tile sequence quality,FAIL,rep3_2.fastq.gz
+SAMPLE1,3,2,Per sequence quality scores,PASS,rep3_2.fastq.gz
+SAMPLE1,3,2,Per base sequence content,FAIL,rep3_2.fastq.gz
+SAMPLE1,3,2,Per sequence GC content,WARN,rep3_2.fastq.gz
+SAMPLE1,3,2,Per base N content,PASS,rep3_2.fastq.gz
+SAMPLE1,3,2,Sequence Length Distribution,PASS,rep3_2.fastq.gz
+SAMPLE1,3,2,Sequence Duplication Levels,PASS,rep3_2.fastq.gz
+SAMPLE1,3,2,Overrepresented sequences,PASS,rep3_2.fastq.gz
+SAMPLE1,3,2,Adapter Content,WARN,rep3_2.fastq.gz
+SAMPLE2,1,1,Basic Statistics,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Per base sequence quality,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Per tile sequence quality,WARN,rep1_1.fastq.gz
+SAMPLE2,1,1,Per sequence quality scores,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Per base sequence content,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Per sequence GC content,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Per base N content,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Sequence Length Distribution,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Sequence Duplication Levels,PASS,rep1_1.fastq.gz
+SAMPLE2,1,1,Overrepresented sequences,WARN,rep1_1.fastq.gz
+SAMPLE2,1,1,Adapter Content,PASS,rep1_1.fastq.gz
+SAMPLE2,1,2,Basic Statistics,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Per base sequence quality,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Per tile sequence quality,FAIL,rep1_2.fastq.gz
+SAMPLE2,1,2,Per sequence quality scores,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Per base sequence content,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Per sequence GC content,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Per base N content,WARN,rep1_2.fastq.gz
+SAMPLE2,1,2,Sequence Length Distribution,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Sequence Duplication Levels,PASS,rep1_2.fastq.gz
+SAMPLE2,1,2,Overrepresented sequences,WARN,rep1_2.fastq.gz
+SAMPLE2,1,2,Adapter Content,PASS,rep1_2.fastq.gz
+SAMPLE2,2,1,Basic Statistics,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Per base sequence quality,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Per tile sequence quality,WARN,rep2_1.fastq.gz
+SAMPLE2,2,1,Per sequence quality scores,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Per base sequence content,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Per sequence GC content,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Per base N content,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Sequence Length Distribution,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Sequence Duplication Levels,PASS,rep2_1.fastq.gz
+SAMPLE2,2,1,Overrepresented sequences,WARN,rep2_1.fastq.gz
+SAMPLE2,2,1,Adapter Content,PASS,rep2_1.fastq.gz
+SAMPLE2,2,2,Basic Statistics,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Per base sequence quality,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Per tile sequence quality,FAIL,rep2_2.fastq.gz
+SAMPLE2,2,2,Per sequence quality scores,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Per base sequence content,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Per sequence GC content,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Per base N content,WARN,rep2_2.fastq.gz
+SAMPLE2,2,2,Sequence Length Distribution,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Sequence Duplication Levels,PASS,rep2_2.fastq.gz
+SAMPLE2,2,2,Overrepresented sequences,WARN,rep2_2.fastq.gz
+SAMPLE2,2,2,Adapter Content,PASS,rep2_2.fastq.gz
+SAMPLE2,3,1,Basic Statistics,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Per base sequence quality,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Per tile sequence quality,WARN,rep3_1.fastq.gz
+SAMPLE2,3,1,Per sequence quality scores,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Per base sequence content,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Per sequence GC content,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Per base N content,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Sequence Length Distribution,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Sequence Duplication Levels,PASS,rep3_1.fastq.gz
+SAMPLE2,3,1,Overrepresented sequences,WARN,rep3_1.fastq.gz
+SAMPLE2,3,1,Adapter Content,PASS,rep3_1.fastq.gz
+SAMPLE2,3,2,Basic Statistics,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Per base sequence quality,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Per tile sequence quality,FAIL,rep3_2.fastq.gz
+SAMPLE2,3,2,Per sequence quality scores,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Per base sequence content,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Per sequence GC content,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Per base N content,WARN,rep3_2.fastq.gz
+SAMPLE2,3,2,Sequence Length Distribution,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Sequence Duplication Levels,PASS,rep3_2.fastq.gz
+SAMPLE2,3,2,Overrepresented sequences,WARN,rep3_2.fastq.gz
+SAMPLE2,3,2,Adapter Content,PASS,rep3_2.fastq.gz
+SAMPLE3,1,1,Basic Statistics,PASS,rep1_1.fastq.gz
+SAMPLE3,1,1,Per base sequence quality,PASS,rep1_1.fastq.gz
+SAMPLE3,1,1,Per sequence quality scores,PASS,rep1_1.fastq.gz
+SAMPLE3,1,1,Per base sequence content,FAIL,rep1_1.fastq.gz
+SAMPLE3,1,1,Per sequence GC content,WARN,rep1_1.fastq.gz
+SAMPLE3,1,1,Per base N content,PASS,rep1_1.fastq.gz
+SAMPLE3,1,1,Sequence Length Distribution,WARN,rep1_1.fastq.gz
+SAMPLE3,1,1,Sequence Duplication Levels,PASS,rep1_1.fastq.gz
+SAMPLE3,1,1,Overrepresented sequences,PASS,rep1_1.fastq.gz
+SAMPLE3,1,1,Adapter Content,PASS,rep1_1.fastq.gz
+SAMPLE3,1,2,Basic Statistics,PASS,rep1_2.fastq.gz
+SAMPLE3,1,2,Per base sequence quality,PASS,rep1_2.fastq.gz
+SAMPLE3,1,2,Per sequence quality scores,PASS,rep1_2.fastq.gz
+SAMPLE3,1,2,Per base sequence content,FAIL,rep1_2.fastq.gz
+SAMPLE3,1,2,Per sequence GC content,WARN,rep1_2.fastq.gz
+SAMPLE3,1,2,Per base N content,PASS,rep1_2.fastq.gz
+SAMPLE3,1,2,Sequence Length Distribution,WARN,rep1_2.fastq.gz
+SAMPLE3,1,2,Sequence Duplication Levels,PASS,rep1_2.fastq.gz
+SAMPLE3,1,2,Overrepresented sequences,PASS,rep1_2.fastq.gz
+SAMPLE3,1,2,Adapter Content,PASS,rep1_2.fastq.gz
+SAMPLE3,2,1,Basic Statistics,PASS,rep2_1.fastq.gz
+SAMPLE3,2,1,Per base sequence quality,PASS,rep2_1.fastq.gz
+SAMPLE3,2,1,Per sequence quality scores,PASS,rep2_1.fastq.gz
+SAMPLE3,2,1,Per base sequence content,FAIL,rep2_1.fastq.gz
+SAMPLE3,2,1,Per sequence GC content,WARN,rep2_1.fastq.gz
+SAMPLE3,2,1,Per base N content,PASS,rep2_1.fastq.gz
+SAMPLE3,2,1,Sequence Length Distribution,WARN,rep2_1.fastq.gz
+SAMPLE3,2,1,Sequence Duplication Levels,PASS,rep2_1.fastq.gz
+SAMPLE3,2,1,Overrepresented sequences,PASS,rep2_1.fastq.gz
+SAMPLE3,2,1,Adapter Content,PASS,rep2_1.fastq.gz
+SAMPLE3,2,2,Basic Statistics,PASS,rep2_2.fastq.gz
+SAMPLE3,2,2,Per base sequence quality,PASS,rep2_2.fastq.gz
+SAMPLE3,2,2,Per sequence quality scores,PASS,rep2_2.fastq.gz
+SAMPLE3,2,2,Per base sequence content,FAIL,rep2_2.fastq.gz
+SAMPLE3,2,2,Per sequence GC content,WARN,rep2_2.fastq.gz
+SAMPLE3,2,2,Per base N content,PASS,rep2_2.fastq.gz
+SAMPLE3,2,2,Sequence Length Distribution,WARN,rep2_2.fastq.gz
+SAMPLE3,2,2,Sequence Duplication Levels,PASS,rep2_2.fastq.gz
+SAMPLE3,2,2,Overrepresented sequences,PASS,rep2_2.fastq.gz
+SAMPLE3,2,2,Adapter Content,PASS,rep2_2.fastq.gz
+SAMPLE3,3,1,Basic Statistics,PASS,rep3_1.fastq.gz
+SAMPLE3,3,1,Per base sequence quality,PASS,rep3_1.fastq.gz
+SAMPLE3,3,1,Per sequence quality scores,PASS,rep3_1.fastq.gz
+SAMPLE3,3,1,Per base sequence content,FAIL,rep3_1.fastq.gz
+SAMPLE3,3,1,Per sequence GC content,WARN,rep3_1.fastq.gz
+SAMPLE3,3,1,Per base N content,PASS,rep3_1.fastq.gz
+SAMPLE3,3,1,Sequence Length Distribution,WARN,rep3_1.fastq.gz
+SAMPLE3,3,1,Sequence Duplication Levels,PASS,rep3_1.fastq.gz
+SAMPLE3,3,1,Overrepresented sequences,PASS,rep3_1.fastq.gz
+SAMPLE3,3,1,Adapter Content,PASS,rep3_1.fastq.gz
+SAMPLE3,3,2,Basic Statistics,PASS,rep3_2.fastq.gz
+SAMPLE3,3,2,Per base sequence quality,PASS,rep3_2.fastq.gz
+SAMPLE3,3,2,Per sequence quality scores,PASS,rep3_2.fastq.gz
+SAMPLE3,3,2,Per base sequence content,FAIL,rep3_2.fastq.gz
+SAMPLE3,3,2,Per sequence GC content,WARN,rep3_2.fastq.gz
+SAMPLE3,3,2,Per base N content,PASS,rep3_2.fastq.gz
+SAMPLE3,3,2,Sequence Length Distribution,WARN,rep3_2.fastq.gz
+SAMPLE3,3,2,Sequence Duplication Levels,PASS,rep3_2.fastq.gz
+SAMPLE3,3,2,Overrepresented sequences,PASS,rep3_2.fastq.gz
+SAMPLE3,3,2,Adapter Content,PASS,rep3_2.fastq.gz
